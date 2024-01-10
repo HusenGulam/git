@@ -1,0 +1,22 @@
+*{
+ margin: 0;
+ padding: 0;
+ list-style: none;
+ text-decoration: none;
+}
+
+header nav{
+width: 1400px;
+height: 70px;
+margin: 0 auto;
+border: 1px red solid;
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+
+header nav ul{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
